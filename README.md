@@ -11,7 +11,7 @@ We cannot completely prevent false results, but the approach works in O(k), mean
 * https://github.com/swuxyj/DeepHash-pytorch/issues/43
 * https://github.com/zexuanqiu/CIBHash/pull/4
 
-## Bachelors's thesis: "Intellectual trading strategy using reinforcement learning" in [English](bachelors/thesis_eng.pdf), in [Ukrainian](bachelors/thesis_ukr.pdf).
+## Bachelors's thesis: "Intellectual trading strategy using Reinforcement Learning" in [English](bachelors/thesis_eng.pdf), in [Ukrainian](bachelors/thesis_ukr.pdf).
 
 ### The main figures:
 
