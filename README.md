@@ -7,6 +7,8 @@
 We cannot completely prevent false results, but the approach works in O(k), meaning it is agnostic to database size:
 ![](masters/assets/figure_15_eng.png)
 
+-- Look closely at the example with the car, the old approach does not preserve the color and appearance, unlike ours.
+
 ### Contributions:
 * https://github.com/swuxyj/DeepHash-pytorch/issues/43
 * https://github.com/zexuanqiu/CIBHash/pull/4
